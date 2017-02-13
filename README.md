@@ -1,7 +1,7 @@
 # CausalAnalysisPython
-***** Analysis of impact of Progresa Program *****
-***** Namrata Deshpande *****
-***** Feb@2017 *****
+###Analysis of impact of Progresa Program###
+**Namrata Deshpande**
+
 ___________________________________________________________________________
 
 ***Description***
@@ -10,7 +10,7 @@ Analyzing causal effects of Progresa program used in Mexico in 1997 on school en
 
 ___________________________________________________________________________
 
-*** Connect ***
+***Connect***
 
 nomid@uw.edu / http://www.linkedin.com/in/namratadeshpande4
 
